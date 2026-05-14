@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Ariyan",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
+    "61589413712296",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61589413712296",
     ""
   ],
   "OWNER": ["100000959749712"], 
